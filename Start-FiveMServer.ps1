@@ -1,4 +1,5 @@
 # FiveM Server Manager
+# by Millz902Games
 # Quick PowerShell tool to manage and launch FiveM servers
 
 param(
@@ -7,6 +8,7 @@ param(
 
 Write-Host "==================================" -ForegroundColor Cyan
 Write-Host "   FiveM Server Manager v1.0" -ForegroundColor Cyan
+Write-Host "        Millz902Games" -ForegroundColor Yellow
 Write-Host "==================================" -ForegroundColor Cyan
 Write-Host ""
 

@@ -1,5 +1,7 @@
 # FiveM Server Manager
 
+**by Millz902Games**
+
 A simple PowerShell tool to quickly manage and launch FiveM servers from the command line.
 
 ## Features
@@ -103,4 +105,10 @@ MIT License - feel free to use and modify as needed.
 
 ## Author
 
+**Millz902Games**
+
 Created for managing multiple FiveM server installations efficiently.
+
+---
+
+© 2025 Millz902Games - All Rights Reserved
